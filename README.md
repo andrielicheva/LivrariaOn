@@ -20,7 +20,7 @@ O objetivo principal deste projeto é criar uma API para uma livraria online. O 
 ## 📋 Requisitos
 
 ### 📚 Dados e Campos Sugeridos
-Um livro deve ter os seguintes campos:
+Um livro deve conter os seguintes campos:
 
 - **id** (identificador único para cada livro)
 - **título**
@@ -30,7 +30,7 @@ Um livro deve ter os seguintes campos:
 - **quantidade em estoque**
 
 ### 🔗 Endpoints Necessários
-A API deve fornecer os seguintes endpoints:
+A API fornece os seguintes endpoints:
 
 - **Criar um livro:** `POST /livros`
 - **Visualizar todos os livros:** `GET /livros`
