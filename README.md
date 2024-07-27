@@ -20,7 +20,7 @@ O objetivo principal deste projeto é criar uma API para uma livraria online. O 
 ## 📋 Requisitos
 
 ### 📚 Dados e Campos Sugeridos
-Um livro deve conter os seguintes campos:
+Um livro contémseguintes campos:
 
 - **id** (identificador único para cada livro)
 - **título**
